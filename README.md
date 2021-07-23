@@ -16,7 +16,7 @@ It’s a simple cube with numbers from 1 to 6 written on its face.It is making a
 
 ![image](https://user-images.githubusercontent.com/80107261/126738675-33109b51-f118-4be8-abdc-f63faf82c98f.png)
 
-Another way of doing it 
+Another way of doing it using Tkinter
 
 ![image](https://user-images.githubusercontent.com/80107261/126738189-7597a574-38e6-464b-ab8c-71ad054e0cf0.png)
 
